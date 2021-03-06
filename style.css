@@ -1,4 +1,4 @@
-  #dat .slider{
+.slider{
   background: red;
   color: white;
   width: 300px;
@@ -6,7 +6,7 @@
   display: flex;
   overflow-x: auto;
 }
-#dat  .slider.slide {
+r.slide {
   width: 300px;
   flex-shrink: 0;
   height: 100%;
